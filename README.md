@@ -1,5 +1,4 @@
-# EXCEL-PROJECT
-# 🏦 Bank Loan Report Dashboard
+# 🏦 EXCEL-Bank Loan Report Dashboard
 # 📂 Dataset
 the dataset used for this project in CSV format.
 
