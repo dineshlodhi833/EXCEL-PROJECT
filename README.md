@@ -14,7 +14,7 @@ The primary goal of this project is to design a user-friendly, automated dashboa
 # Repayments
 # Interest Rates
 # Borrower Risk Profiles
-#🖥️ Dashboard 1: Summary
+# 🖥️ Dashboard 1: Summary
 # Key Metrics:
 # Total Loan Applications:
 
