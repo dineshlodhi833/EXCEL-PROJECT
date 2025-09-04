@@ -1,4 +1,4 @@
-# 🏦 EXCEL-Bank Loan Report Dashboard
+# 🏦 EXCEL-Bank Loan Data analysis Dashboard
 # 📂 Dataset
 the dataset used for this project in CSV format.
 
