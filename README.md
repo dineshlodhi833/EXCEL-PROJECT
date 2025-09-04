@@ -46,7 +46,8 @@ The primary goal of this project is to design a user-friendly, automated dashboa
 📉 Includes metrics like funded amount and total received amount for bad loans.<br>
 # Loan Status Grid View:
 
-# 📋 Overview by Loan Status: Provides a grid view breaking down key metrics by loan statuses such as Active, Closed, or Defaulted.
+# 📋 Overview by Loan Status: 
+Provides a grid view breaking down key metrics by loan statuses such as Active, Closed, or Defaulted.
 # 🧩 Dashboard 2: Overview
 # Key Metrics:
 # Monthly Trends by Issue Date:
